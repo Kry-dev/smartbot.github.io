@@ -1,3 +1,8 @@
 .DS_Store
 node_modules
 dist
+/.idea/modules.xml
+/.idea/.gitignore
+/.idea/php.xml
+/.idea/SmartBot.iml
+/.idea/vcs.xml

@@ -1,5 +1,5 @@
 {
-  "name": "front-end-boilerplate",
+  "name": "SmartBot Front End Starter",
   "version": "1.0.0",
   "description": "Minimal front end boilerplate, kept up to date via PNPM",
   "main": "gulpfile.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmsedwrdmnkme/front-end-boilerplate"
+    "url": "https://github.com/Kry-dev/smartbot.github.io.git"
   },
-  "author": "James Monk",
+  "author": "Yaroslav Kryvda",
   "license": "ISC",
   "type": "module",
   "devDependencies": {

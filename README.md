@@ -8,8 +8,9 @@ Will play nice(st) with the latest versions of modern browsers:-
 * Safari
 
 ## Get started
-* git clone https://github.com/jmsedwrdmnkme/front-end-boilerplate.git
-* cd front-end-boilerplate
+* git clone https://github.com/Kry-dev/smartbot.github.io.git
+* cd SmartBot
+* npm install -g pnpm
 * pnpm install
 * gulp
 * Start building!
